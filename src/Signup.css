@@ -1,0 +1,31 @@
+div {
+
+background-size: cover;
+background-position: center;
+}
+
+.MuiCard-root {
+border: 1px solid #ffb71e;
+border-radius: 10px;
+}
+
+.MuiTextField-root {
+margin: 10px;
+}
+
+.MuiButton-root {
+padding: 10px;
+}
+
+.MuiButton-root {
+variant: outlined;
+}
+
+.MuiButton-root {
+color: white;
+}
+
+.MuiButton-root {
+background-color: #ffb71e;
+}
+  
